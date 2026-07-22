@@ -1,4 +1,4 @@
-# SQL Business-Performance-Analysis-using PostgreSQL and PowerBI
+# Business Performance Analysis using PostgreSQL and PowerBI
 ## 📌 Project Overview
 This project analyzes retail sales data using PostgreSQL and visualizes business insights using Power BI.
 
